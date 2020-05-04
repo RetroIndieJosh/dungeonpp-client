@@ -1,0 +1,7 @@
+0x72_DungeonTilesetII_v1
+        https://0x72.itch.io/dungeontileset-ii
+        by 0x72
+
+rpg-pack
+        https://bakudas.itch.io/generic-rpg-pack
+        by bakudas
